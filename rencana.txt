@@ -3,3 +3,4 @@ rencana belajar coding
 -kuasai css
 -kuasai javascript
 -membuat website untuk portfolio
+-kuasai coding

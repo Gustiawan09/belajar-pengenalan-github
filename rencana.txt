@@ -2,3 +2,4 @@ rencana belajar coding
 -kuasai html
 -kuasai css
 -kuasai javascript
+-membuat website untuk portfolio
